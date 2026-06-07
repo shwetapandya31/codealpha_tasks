@@ -1,4 +1,4 @@
-# BasicChatbot
+# Basic Chatbot
 🤖 Basic Chatbot 
 
 This is a simple text-based chatbot developed in Python as part of the CodeAlpha Internship.
